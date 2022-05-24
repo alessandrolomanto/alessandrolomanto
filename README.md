@@ -3,7 +3,7 @@
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
-I am a DevOps Engineer from Italy started as a Software Developer cultivating the DevOps Culture. I have recently started learning Infrastructure as a Code.
+I am a DevOps Engineer from Italy started as a Software Developer cultivating the DevOps Culture.
   </samp><br><br>
 
 <h2 align="center"> 🔭 Technology Stack</h2>
